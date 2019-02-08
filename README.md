@@ -1,2 +1,7 @@
 # hello-world
-My first repository
+
+Hi HUmans!
+
+I like python 
+
+I wanna to do somethings to change myself.
